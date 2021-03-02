@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = "Greens Project"
-copyright = '2021, Team Osive'
-author = 'Team Osive'
+copyright = '2021, Team Greens'
+author = 'Team Greens'
 
 
 # -- General configuration ---------------------------------------------------
