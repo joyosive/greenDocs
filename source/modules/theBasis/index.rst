@@ -35,7 +35,7 @@ First, we would offer time-locked security tokens for initial seed funding for e
 
 Second, we offer utility tokens to consumers of these services.
 
-    
+
 Open Items
 ==========
 
@@ -55,16 +55,6 @@ IP Disclaimer
 
 - This section formally recognizes the release of intellectual property rights, if any, from either team mates or GBC.The future of the project’s success, is riddled with so many extrinsic factors that, its safest to presume the path of opensourcing will be most desireable ,leading it to be beneficial if not in India then maybe somewhere else.
 
-- We also believe sharing the code and other assets openly is a valuable learning tool.We plan to do this after a minimal viable product is created. Most probably incorporating “2-clause BSD” license .
+- I also believe sharing the code and other assets openly is a valuable learning tool.We plan to do this after a minimal viable product is created. Most probably incorporating “2-clause BSD” license .
 
-Course & Professor details
-============================
 
-**Professor Name:** Dave Mckay
-
-**Syllabus:** 
-
-    .. raw:: html
-
-        <iframe src="../../_static/CSI_BCDV_1012_dApp-I.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
-    

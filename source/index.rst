@@ -23,9 +23,6 @@ Welcome to Greens Project's documentation!
      - .. toctree:: Real-World Milestones <modules/end/index.rst>
    * - 5
      - .. toctree:: Appendix <modules/appexdix/index.rst>
-   * - 6
-     - .. toctree:: Links & References <modules/references/index.rst>
-   * - 7
-     - .. toctree:: Team Profile <modules/team/index.rst>
+
 
 
